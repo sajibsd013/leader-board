@@ -1,0 +1,41 @@
+body{
+    background-color: #F3F1FF;
+}
+
+nav img{
+    width: 40px;
+    height: auto;
+}
+.player img{
+    width: 56px;
+    height: auto;
+}
+
+
+main ,.menuvar , .courses{
+    max-width: 870px!important;
+}
+.card{
+    border: none;
+    box-shadow: 0 0 20 lightgray;
+}
+.card-title{
+    font-weight: 650;
+}
+
+.card-footer{
+    border: none;
+    padding: 0;
+    margin: 0%;
+}
+
+.card-body{
+    padding: 5px 3px;
+}
+.star{
+    width: 13px;
+}
+
+.time{
+    width: 20px;
+}
